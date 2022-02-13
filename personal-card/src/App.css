@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+}
+
+.portfolio--title {
+  margin: 10px auto;
+  color: #5093E2;
+  font-size: 30px;
+  text-align: center;
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .App {
+    display: block;
+  }
+}
