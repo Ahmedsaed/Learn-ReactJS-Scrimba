@@ -4,8 +4,8 @@ import emailIcon from "../images/email-icon.png"
 import linkedInIcon from "../images/linkedIn.png"
 import personalImg from "../images/personal_image.jpg";
 import facebookIcon from "../images/FacebookIcon.png";
-import twitterIcon from "../images/GitHub Icon.png";
-import gitHubIcon from "../images/TwitterIcon.png";
+import gitHubIcon from "../images/GitHub Icon.png";
+import twitterIcon from "../images/TwitterIcon.png";
 
 export default function PersonalCard() {
     return (
@@ -33,9 +33,9 @@ export default function PersonalCard() {
             </div>
 
             <footer className='footer'>
-                <img src={facebookIcon} alt='facebook' />
-                <img src={twitterIcon} alt='facebook' />
-                <img src={gitHubIcon} alt='facebook' />
+                <a href="https://www.facebook.com/ahmedsaed26" target="_blank" rel="noreferrer"><img src={facebookIcon} alt='facebook' /></a>
+                <a href="https://www.twitter.com/ahmed_saed26" target="_blank" rel="noreferrer"><img src={twitterIcon} alt='twitter' /></a>
+                <a href="https://www.github.com/ahmedsaed" target="_blank" rel="noreferrer"><img src={gitHubIcon} alt='GitHub' /></a>
             </footer>
         </div>
     )
