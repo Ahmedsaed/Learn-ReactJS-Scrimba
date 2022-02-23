@@ -1,0 +1,48 @@
+.card {
+    margin: 30px 40px;
+    display: flex;
+    text-align: start;
+}
+
+.card-img {
+    border-radius: 5px;
+    height: 200px;
+    width: 150px;
+}
+
+.card-content {
+    margin: 0px 10px;
+}
+
+.location-text {
+    margin: 0px 10px 0px 5px;
+}
+
+.location-link {
+    line-height: 12px;
+    color: #918E9B;
+    text-decoration-line: underline;
+}
+
+.card-title {
+    font-size: 25px;
+    color: #2B283A;
+    margin: 0px 0px;
+    font-weight: bold;
+}
+
+.card-date {
+    color: #2B283A;
+}
+
+.card-desc {
+    max-width: 350px;
+    font-size: 15px;
+}
+
+hr {
+    border: 0;
+    width: 350px;               
+    background-color: #9c9c9c;
+    height: 1px;
+}

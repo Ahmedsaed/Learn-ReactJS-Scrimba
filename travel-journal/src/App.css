@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background: #F55A5A;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+}
+
+.header-text {
+  font-weight: 500;
+  font-size: 16px;
+
+  color: #FFFFFF;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
