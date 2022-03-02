@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Learn-ReactJS-Scrimba/static/css/main.120e4c2a.css",
+    "main.css": "/Learn-ReactJS-Scrimba/static/css/main.338a0c87.css",
     "main.js": "/Learn-ReactJS-Scrimba/static/js/main.2ebcd8fa.js",
     "static/js/787.80cd1330.chunk.js": "/Learn-ReactJS-Scrimba/static/js/787.80cd1330.chunk.js",
     "index.html": "/Learn-ReactJS-Scrimba/index.html",
-    "main.120e4c2a.css.map": "/Learn-ReactJS-Scrimba/static/css/main.120e4c2a.css.map",
+    "main.338a0c87.css.map": "/Learn-ReactJS-Scrimba/static/css/main.338a0c87.css.map",
     "main.2ebcd8fa.js.map": "/Learn-ReactJS-Scrimba/static/js/main.2ebcd8fa.js.map",
     "787.80cd1330.chunk.js.map": "/Learn-ReactJS-Scrimba/static/js/787.80cd1330.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.120e4c2a.css",
+    "static/css/main.338a0c87.css",
     "static/js/main.2ebcd8fa.js"
   ]
 }
