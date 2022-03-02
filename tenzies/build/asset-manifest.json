@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.120e4c2a.css",
-    "main.js": "/static/js/main.2b3e5430.js",
-    "static/js/787.80cd1330.chunk.js": "/static/js/787.80cd1330.chunk.js",
-    "index.html": "/index.html",
-    "main.120e4c2a.css.map": "/static/css/main.120e4c2a.css.map",
-    "main.2b3e5430.js.map": "/static/js/main.2b3e5430.js.map",
-    "787.80cd1330.chunk.js.map": "/static/js/787.80cd1330.chunk.js.map"
+    "main.css": "/projects/tenzies/static/css/main.120e4c2a.css",
+    "main.js": "/projects/tenzies/static/js/main.3d546e6a.js",
+    "static/js/787.80cd1330.chunk.js": "/projects/tenzies/static/js/787.80cd1330.chunk.js",
+    "index.html": "/projects/tenzies/index.html",
+    "main.120e4c2a.css.map": "/projects/tenzies/static/css/main.120e4c2a.css.map",
+    "main.3d546e6a.js.map": "/projects/tenzies/static/js/main.3d546e6a.js.map",
+    "787.80cd1330.chunk.js.map": "/projects/tenzies/static/js/787.80cd1330.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.120e4c2a.css",
-    "static/js/main.2b3e5430.js"
+    "static/js/main.3d546e6a.js"
   ]
 }
