@@ -1,0 +1,36 @@
+.quiz-question {
+    margin: 10px 0px 0px 0px;
+}
+
+
+.question-text {
+    font-size: 1.2rem;
+    margin: 0px;
+}
+  
+.choice {
+    border: 0.794239px solid #4D5B9E;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+    padding: 5px 15px;
+    min-width: 100px;
+    margin: 10px 15px 10px 0px;
+
+    color: #293264;
+    font-weight: bolder;
+    font-size: 0.9rem;
+}
+
+.chosen {
+    background: #D6DBF5;
+    border: 0.794239px solid #D6DBF5;
+}
+
+.correct {
+    background: #94D7A2;
+}
+
+.incorrect {
+    background: #F8BCBC;
+}

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/projects/tenzies/static/css/main.120e4c2a.css",
-    "main.js": "/projects/tenzies/static/js/main.3d546e6a.js",
-    "static/js/787.80cd1330.chunk.js": "/projects/tenzies/static/js/787.80cd1330.chunk.js",
-    "index.html": "/projects/tenzies/index.html",
-    "main.120e4c2a.css.map": "/projects/tenzies/static/css/main.120e4c2a.css.map",
-    "main.3d546e6a.js.map": "/projects/tenzies/static/js/main.3d546e6a.js.map",
-    "787.80cd1330.chunk.js.map": "/projects/tenzies/static/js/787.80cd1330.chunk.js.map"
+    "main.css": "/Learn-ReactJS-Scrimba/static/css/main.338a0c87.css",
+    "main.js": "/Learn-ReactJS-Scrimba/static/js/main.2ebcd8fa.js",
+    "static/js/787.80cd1330.chunk.js": "/Learn-ReactJS-Scrimba/static/js/787.80cd1330.chunk.js",
+    "index.html": "/Learn-ReactJS-Scrimba/index.html",
+    "main.338a0c87.css.map": "/Learn-ReactJS-Scrimba/static/css/main.338a0c87.css.map",
+    "main.2ebcd8fa.js.map": "/Learn-ReactJS-Scrimba/static/js/main.2ebcd8fa.js.map",
+    "787.80cd1330.chunk.js.map": "/Learn-ReactJS-Scrimba/static/js/787.80cd1330.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.120e4c2a.css",
-    "static/js/main.3d546e6a.js"
+    "static/css/main.338a0c87.css",
+    "static/js/main.2ebcd8fa.js"
   ]
 }

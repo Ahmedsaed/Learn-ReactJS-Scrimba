@@ -34,7 +34,6 @@ main {
     border-radius: 30px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
 
-    height: 400px;
     max-width: 800px;
     padding: 20px;
 
@@ -60,6 +59,19 @@ main {
     grid-template: auto auto / repeat(5, 1fr);
     gap: 20px;
     margin-bottom: 40px;
+}
+
+.bottom-section {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+}
+
+.bottom-text {
+    font-size: 1.2rem;
+    margin: 0px;
+    font-weight: bolder;
 }
 
 .roll-dice {
@@ -91,17 +103,4 @@ main {
 .vl {
     border-left: 1px solid gray;
     height: 80%;
-}
-
-.bottom-section {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    justify-content: center;
-}
-
-.bottom-text {
-    font-size: 1.2rem;
-    margin: 0px;
-    font-weight: bolder;
 }

@@ -1,0 +1,51 @@
+.quiz {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quiz-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: right;
+  width: 800px;
+}
+
+.check-btn {
+  margin: 10px;
+  background: #4D5B9E;
+  border-radius: 15px;
+  width: 193px;
+  height: 52px;
+  color: #F5F7FB;
+  border: none;
+  font-size: 20px;
+}
+
+.check-btn:focus {
+  outline: none;
+}
+
+.check-btn:active {
+  box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
+}
+
+.quiz-result {
+  color: #293264;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.visible {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.2s linear;
+}
+
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 0.2s, opacity 0.2s linear;
+}

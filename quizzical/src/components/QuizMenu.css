@@ -1,0 +1,37 @@
+.quiz-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+}
+
+.menu-header {
+    font-weight: bold;
+    font-size: 60px;
+    margin: 0px;
+}
+  
+.menu-desc {
+    margin: 0px;
+    font-size: 30px;
+}
+
+.menu-btn {
+    margin: 50px;
+    background: #4D5B9E;
+    border-radius: 15px;
+    width: 193px;
+    height: 52px;
+    color: #F5F7FB;
+    border: none;
+    font-size: 20px;
+}
+
+.menu-btn:focus {
+    outline: none;
+}
+  
+.menu-btn:active {
+    box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
+}
