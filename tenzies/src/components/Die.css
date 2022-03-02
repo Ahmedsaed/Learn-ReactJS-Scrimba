@@ -1,0 +1,45 @@
+.die-face {
+    height: 50px;
+    width: 50px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    padding: 5px;
+
+    cursor: pointer;
+
+    display: grid;
+    grid-template-areas:
+        "a . c"
+        "e g f"
+        "d . b";
+}
+
+.pip {
+	display: block;
+	align-self: center;
+	justify-self: center;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: #333;
+}
+
+.pip:nth-child(2) {
+    grid-area: b;
+}
+.pip:nth-child(3) {
+    grid-area: c;
+}
+.pip:nth-child(4) {
+    grid-area: d;
+}
+.pip:nth-child(5) {
+    grid-area: e;
+}
+.pip:nth-child(6) {
+    grid-area: f;
+}
+
+.pip:nth-child(odd):last-child {
+    grid-area: g;
+}
